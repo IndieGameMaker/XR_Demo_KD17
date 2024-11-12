@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "XR_Demo.sln"
+    "dotnet.defaultSolution": "XR_Demo_KD17.sln"
 }
